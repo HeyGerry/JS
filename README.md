@@ -1,4 +1,5 @@
 # js循环绑定事件
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -55,3 +56,4 @@
 
 </body>
 </html>
+```
